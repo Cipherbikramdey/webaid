@@ -27,7 +27,7 @@ WebAid is a powerful and user-friendly terminal-based toolkit designed to assist
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/webaid.git
+   git clone https://github.com/cipherbikramdey/webaid.git
    cd webaid
    pip install pip install InquirerPy --break-system-packages
    sudo apt install nmap nikto dirb whois dnsenum dnsutils theharvester dirbuster wafw00f
