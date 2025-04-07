@@ -30,4 +30,4 @@ WebAid is a powerful and user-friendly terminal-based toolkit designed to assist
    git clone https://github.com/cipherbikramdey/webaid.git
    cd webaid
    sudo apt install nmap nikto dirb whois dnsenum dnsutils theharvester dirbuster wafw00f
-   pip install pip install InquirerPy --break-system-packages
+   pip install InquirerPy --break-system-packages
