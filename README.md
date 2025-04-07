@@ -31,3 +31,6 @@ WebAid is a powerful and user-friendly terminal-based toolkit designed to assist
    cd webaid
    sudo apt install nmap nikto dirb whois dnsenum dnsutils theharvester dirbuster wafw00f
    pip install InquirerPy --break-system-packages
+
+## 🚀 Output
+All output is saved in recon-results/ with a timestamp.
